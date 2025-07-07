@@ -10,6 +10,8 @@
 */
 
 #include <stdio.h> // Standard Input Output header
+#include <stdlib.h> // Standard Library header for general functions
+#include <conio.h> // Console Input Output header for console operations
 
 //Functions to calculate different tax slabs
 
@@ -96,5 +98,9 @@ int main() {
     printf("You can open this file in Microsoft Excel or Google Sheets.\n");
     printf("Exiting the program. Goodbye!......\n");
 
+    // Wait for user input before exiting
+    printf("Press any key to exit...\n");
+    getch(); // Wait for a key press
     return 0;
+
 }
