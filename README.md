@@ -51,8 +51,9 @@ PS C:\Users\delln\OneDrive\Desktop\Project.C\output> & .\'taxfile.exe'
 Enter your full name: Nirmal SANJEL
 Enter your contact number: 9848744321
 Enter your annual salary (in NRs): 6070876
-
+```
 ### Output (Terminal):
+```bash
 --------------- Tax Summary ---------------
 Name       : Nirmal SANJEL
 Contact    : 9848744321
@@ -64,3 +65,4 @@ Thank you for using the Income Tax Calculator!
 Your tax details have been saved to 'tax_records.csv'.
 You can open this file in Microsoft Excel or Google Sheets.
 Exiting the program. Goodbye!......
+```
