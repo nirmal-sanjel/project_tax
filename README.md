@@ -45,7 +45,7 @@ It calculates the **annual income tax** according to a progressive tax system.
 ## 🧪 Sample Input & Output
 
 ### Input (Terminal):
-
+```bash
 PS C:\Users\delln\OneDrive\Desktop\Project.C\output> cd 'c:\Users\delln\OneDrive\Desktop\Project.C\output'
 PS C:\Users\delln\OneDrive\Desktop\Project.C\output> & .\'taxfile.exe'
 Enter your full name: Nirmal SANJEL
