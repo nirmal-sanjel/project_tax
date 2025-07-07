@@ -1,11 +1,4 @@
-Name	Contact	Salary	Tax
-Nirmal SANJEL			
-	9848744321		
-	6070876	1606262.75
-
---------------------------------
-
-Name	Contact	Salary	Tax
-Sunita Sijapati			
-	9812345670		
-	109000	1090	
+Name,Contact,Salary,Tax
+Nirmal SANJEL,9848744321,6070876,1606262.75
+Name,Contact,Salary,Tax
+Sunita Sijapati,9812345670,109000,1090
