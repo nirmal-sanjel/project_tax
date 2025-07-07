@@ -4,11 +4,9 @@
 🎓 Program: Bachelors in Computer Application (BCA)  
 🏫 Semester: 2 (Regular)  
 🏢 Campus: Jana Bhawana Campus, Chapagaun, Lalitpur  
-📅 TU Registration No: 6-2-253-16-2024  
 🆔 Roll No: 16  
 📞 Contact: 9848744321  
-📍 Address: Dhapakhel-24, Lalitpur  
-📆 Date of Birth: 2003-01-27 (२०५९-१०-१३)  
+📍 Address: Dhapakhel-24, Lalitpur   
 🧑 Gender: Male  
 
 ---
